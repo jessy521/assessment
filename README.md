@@ -5,8 +5,8 @@
 1. **Clone the Git Repository**
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/jessy521/assessment.git
+cd assessment
 ```
 
 2. **Kill the Chrome Process**
